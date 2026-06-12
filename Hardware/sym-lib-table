@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CHEEPROM-rescue)(type Legacy)(uri ${KIPRJMOD}/CHEEPROM-rescue.lib)(options "")(descr ""))
+)
